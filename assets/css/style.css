@@ -1,0 +1,22 @@
+body {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  
+}
+
+.nav_titulo {
+  color: white;
+  font-size: 20pt;
+}
+
+.nav-link {
+  color: white
+  
+}
+
+
+.subtitulos {
+  color: white;
+  font-size: 16pt;
+}
