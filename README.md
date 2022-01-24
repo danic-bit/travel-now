@@ -2,6 +2,8 @@ Front-end development using Bootstrap framework (CSS y JS)
 
 Desarrollo de un sitio web, usando el framework Bootstrap. 
 
+https://danic-bit.github.io/travel-now/
+
 Se utilizan componentes css y js, tales como Navbar, Carrousel, Cards, Formulario. Se aplica el componente Scrollspy para links del nav hacia la diferentes secciones. En Formulario se agregan Tooltip y Modal. 
 También se realiza un acción con JQuery. 
 
